@@ -32,5 +32,3 @@ function App() {
 
 export default App;
 
-//Github UserName : Parshuu-Hub
-//Github Password : #P@rshuu007
